@@ -21,6 +21,6 @@ representations.
 # After installing packages, Run the program using following command
     streamlit run app.py
 
-HINT: place your datasets in a CSVfiles folder to performing the EDA.
+HINT: place your datasets in a CSVfiles folder to perform the EDA.
 ```
 

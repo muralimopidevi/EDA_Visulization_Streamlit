@@ -1,5 +1,6 @@
 ![PyPI - Python Version](https://img.shields.io/badge/Python-3.7-brightgreen)
-![PyPI - Python Version](https://img.shields.io/badge/requirements.txt-updated-yellow)
+![PyPI - requirements](https://img.shields.io/badge/requirements.txt-updated-yellow)
+![PyPI - streamlit](https://img.shields.io/badge/streamlit-0.65.2-orange)
 
 # EDA Visulizations Streamlit
 
